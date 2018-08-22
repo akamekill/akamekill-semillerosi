@@ -2,7 +2,10 @@
   "posts": [
     { "id": 1, "Nombre": "Post 1" },
     { "id": 2, "Carrera": "Post 2" },
-    { "id": 3, "Numero Integrantes": "Post 3" }
+    { "id": 3, "Numero Integrantes": "Post 3" },
+    { "id": 2, "Numero Proyectos": "Post 2" },
+    { "id": 3, "Eventos": "Post 3" }
+    
   ],
   "profile": {
     "name": "typicode"
